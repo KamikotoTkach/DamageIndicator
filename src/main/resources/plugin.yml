@@ -1,0 +1,4 @@
+name: DamageIndicator
+version: '${project.version}'
+main: tkachgeek.damageindicator.DamageIndicator
+api-version: 1.17
